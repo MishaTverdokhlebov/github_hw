@@ -19,7 +19,19 @@ namespace github_hw
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.BackColor = Color.Yellow;
+            button1.BackColor = GetRandomColor();
+        }
+
+        private Color GetRandomColor()
+        {
+            Random r = new Random();
+
+            int red = r.Next(255);
+            int green = r.Next(255);
+            int blue = r.Next(255);
+
+
+            return Color.FromArgb(red, green, blue);
         }
     }
 }
