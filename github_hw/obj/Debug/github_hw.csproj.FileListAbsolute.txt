@@ -1,0 +1,10 @@
+C:\Users\Misha\source\repos\github_hw\github_hw\bin\Debug\github_hw.exe.config
+C:\Users\Misha\source\repos\github_hw\github_hw\bin\Debug\github_hw.exe
+C:\Users\Misha\source\repos\github_hw\github_hw\bin\Debug\github_hw.pdb
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.csprojAssemblyReference.cache
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.Form1.resources
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.Properties.Resources.resources
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.exe
+C:\Users\Misha\source\repos\github_hw\github_hw\obj\Debug\github_hw.pdb
